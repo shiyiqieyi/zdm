@@ -1,0 +1,1 @@
+{"article_comment":"20","article_id":"81044665","article_mall":"京东","article_pic_url":"https://y.zdmimg.com/202305/30/64756b2e1e6c75741.jpg_d200.jpg","article_price":"3299元","article_rating":"12","article_title":"ZOTAC 索泰 GeForce RTX 3070 Ti - 8GB 天启 PGF 独立显卡电竞 RTX 3070Ti-8G6X X-GAMING","article_url":"https://www.smzdm.com/p/81044665/","pushed":false}
